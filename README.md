@@ -1,4 +1,4 @@
-# End-to-end-Source-Code-Analysis-Generative-AI
+# medical-based chatbot
 
 # How to run?
 ### STEPS:
